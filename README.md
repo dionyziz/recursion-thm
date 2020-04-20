@@ -16,4 +16,5 @@ read from any files.
 # Quine
 It's easy to produce a quine with this compiler. See the "examples/" folder for
 a quine program that uses "SELF". You can use this compiler to compile it to a
-proper JS quine.
+proper JS quine. Just run `node compiler.js examples/quine.js` to obtain a
+quine.
